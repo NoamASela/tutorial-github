@@ -14,7 +14,7 @@ https://github.com/NoamASela/github-lab01.git
  - Sign-in to github using your credentials
  - Clone the repository locally using the command / source tree:
 ```
-$ git clone https://<PutNoamAmraniPersonalAccessToken>@github.com/NoamASela/github-lab01.git
+$ git clone https://fASDF256c5fa5ca04fd6a65d9ce40bf52d51e8a74e11 @github.com/NoamASela/github-lab01.git
 ```
 ```
 ST: New Tab
